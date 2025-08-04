@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abidin Burak</h1>
 <h3 align="center">I'm just trying to learn Computer Science</h3>
+You can support ne!
+<h3>https://www.baskitasarim.net</h3>
 
 
 <p align="left"> <a href="https://twitter.com/abidinburaks" target="blank"><img src="https://img.shields.io/twitter/follow/abidin?logo=twitter&style=for-the-badge" alt="abidin" /></a> </p>
